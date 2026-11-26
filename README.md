@@ -50,11 +50,3 @@ A leading heavy machinery manufacturer is facing issues with demand volatility a
 - The optimized inventory strategy was developed by balancing high-value, low-volume machinery units.
 - The project simulates a real-world business problem, emphasizing the synergy between **data science** and **operations research**.
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rithikis14/Prediction_Materials_Constructionsite
-   cd Prediction_Materials_Constructionsite
